@@ -61,6 +61,27 @@ const Footer = () => (
         ))}
       </div>
     </div>
+
+    <div>
+      <p className="font-poppins font-normal text-center text-[12px] leading-[27px] text-dimWhite mt-10">
+        Built by{" "}
+        <a
+          href="https://www.linkedin.com/in/sorayacarvajal/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Soraya Carvajal
+        </a>{" "}
+        and{" "}
+        <a
+          href="https://github.com/icuestiona/bank_modern_app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          open-sourced
+        </a>
+      </p>
+    </div>
   </section>
 );
 
