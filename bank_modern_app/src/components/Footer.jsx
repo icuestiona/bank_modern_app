@@ -69,6 +69,7 @@ const Footer = () => (
           href="https://www.linkedin.com/in/sorayacarvajal/"
           target="_blank"
           rel="noreferrer"
+          className=" hover:text-secondary"
         >
           Soraya Carvajal
         </a>{" "}
@@ -77,6 +78,7 @@ const Footer = () => (
           href="https://github.com/icuestiona/bank_modern_app"
           target="_blank"
           rel="noreferrer"
+          className=" hover:text-secondary"
         >
           open-sourced
         </a>
